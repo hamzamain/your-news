@@ -1,0 +1,17 @@
+#catagory-container {
+    display: flex;
+    gap: 50px;
+    justify-content: space-around;
+
+}
+
+.elips {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.auther-img {
+    height: 40px;
+    border-radius: 20px;
+}
